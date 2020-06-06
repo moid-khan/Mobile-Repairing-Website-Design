@@ -1,0 +1,174 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #f9f8f4 !important;
+}
+
+.logo {
+  width: 150px;
+}
+
+.fa-clock {
+  font-size: 40px;
+  color: #5a5f61;
+}
+
+.fa-headphones-alt {
+  font-size: 40px;
+  color: #5a5f61;
+}
+
+.info-text {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-left: 60px;
+  margin-top: -42px;
+}
+
+._time {
+  margin-top: -20px;
+}
+
+.text-head {
+  font-size: 12px;
+  color: #5a5f61;
+}
+
+.btn-call,
+.btn-call:hover {
+  background-color: #c45d3c;
+  text-decoration: none;
+  color: #ffffff;
+  font-weight: bold;
+  padding: 15px;
+  border-radius: 5px;
+}
+
+.navbar {
+  width: 100%;
+  background-color: #446a73 !important;
+}
+
+.navbar-nav {
+  margin-left: 100px;
+}
+
+.navbar-nav > li > a {
+  padding-left: 50px !important;
+  color: #acc4ca !important;
+  font-weight: bold;
+}
+
+.navbar-nav > li > a:hover {
+  color: #ffffff !important;
+}
+
+.navbar-toggler {
+  background-color: #ffffff !important;
+}
+
+.carousel-item img {
+  filter: brightness(50%);
+}
+
+.card {
+  text-align: center;
+}
+
+.fa-laptop,
+.fa-mobile-alt,
+.fa-tablet-alt {
+  font-size: 50px;
+  text-align: center;
+  padding-top: 15px;
+  color: #446a73;
+}
+
+.services-heading {
+  padding-left: 100px !important;
+}
+
+.services-head {
+  background-color: #446a73;
+  padding: 20px;
+  color: #ffffff;
+}
+
+.head {
+  background-color: #ffffff !important;
+}
+
+.red-para {
+  color: #c45d3c;
+}
+
+.ft-text {
+  padding-left: 100px;
+}
+
+.ft-area {
+  background-color: #446a73;
+  color: #ffffff;
+}
+
+.footer {
+  background-color: #25272e;
+  color: #bbbbbb;
+  font-size: 14px;
+}
+
+.footer ul li {
+  list-style: none;
+  padding: 3px;
+}
+
+.footer i {
+  padding-right: 3px;
+  color: #427900;
+}
+
+.footer strong {
+  color: #ffffff;
+}
+
+.social ul li {
+  display: inline;
+  padding: 5px;
+  color: #ffffff;
+}
+
+.social ul li i {
+  color: #ffffff;
+  background-color: #2655e8;
+  padding: 10px;
+  height: 35px;
+  width: 35px;
+  border-radius: 50%;
+  text-align: center;
+}
+
+.footer-bottom {
+  background-color: #2655e8;
+  color: #ffffff;
+  font-size: 12px;
+}
+
+.footer-bottom span {
+  padding: 10px;
+}
+
+.about-img {
+  filter: brightness(50%);
+}
+
+.address-card {
+  height: 200px !important;
+}
+
+.address-icon {
+  padding-top: 20px;
+  font-size: 50px !important;
+  color: #c45d3c;
+}
